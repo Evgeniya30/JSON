@@ -1,0 +1,9 @@
+{
+	"Name": "bug",
+	"description": "description bug",
+	"environment": "environment for bug",
+	"playback steps": "playback steps",
+	"Result ": "Result ",
+	"Expected result ": "expected result ",
+	"Attachment ": "Attachment "
+}
